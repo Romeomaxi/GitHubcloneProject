@@ -1,6 +1,3 @@
-Practice creating branches for feature development, merging branches, and resolving merge conflicts to simulate a common collaborative workflow on Git and GitHub.
-
-
-
-
+Objective of this task: Practice branching, merging, and conflict resolution.
 Modification in main branch.
+This is a new feature.
